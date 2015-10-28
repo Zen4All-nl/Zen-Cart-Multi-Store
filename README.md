@@ -21,6 +21,7 @@ every option can be set per store.</p>
   <li>Products per store</li>
   <li>Categories per store</li>
   <li>Product name, description and price override per store</li>
+  <li>Differmt categorie root per store</li>
   <li>Currency per store </li>
   <li>Languages per store</li>
   <li>Templates per store</li>
