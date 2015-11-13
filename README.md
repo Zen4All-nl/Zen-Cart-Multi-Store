@@ -25,7 +25,7 @@ every option can be set per store.</p>
   <li>Currency per store </li>
   <li>Languages per store</li>
   <li>Templates per store</li>
-  <li>Using the back ported shared override folder from Zen Cart 1.6 for easier maintenance of templates and overrides</li>
+  <li>Using the back ported shared override folder from Zen Cart 1.6 for easier maintenance of language, template, and override files</li>
   <li>Side boxes set per store</li>
   <li>Specials and Featured products per store</li>
   <li>Configuration settings per store, each store has a unique config table</li>
