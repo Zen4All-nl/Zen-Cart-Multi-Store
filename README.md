@@ -38,6 +38,7 @@ every option can be set per store.</p>
 <ul>
   <li>On creating a new store, optional automatic template, override, and language folder copying from an other store.</li>
   <li>Add switch for optional sharing of customers between stores, and give customers the ability to buy from multiple stores at once.</li>
+  <li>Add limitations on admins wich stores they may see/edit</li>
 </ul>
 <h2>Demo</h2>
 <p>Follow <a href="http://multistore.zen4all-dev.nl" target="_blank">this link</a> to go to the demo site</p>
