@@ -21,14 +21,14 @@ every option can be set per store.</p>
   <li>Products per store</li>
   <li>Categories per store</li>
   <li>Product name, description and price override per store</li>
-  <li>Differnt categorie root per store</li>
+  <li>Different category root per store</li>
   <li>Currency per store </li>
   <li>Languages per store</li>
   <li>Templates per store</li>
   <li>Using the back ported shared override folder from Zen Cart 1.6 for easier maintenance of language, template, and override files</li>
   <li>Side boxes set per store</li>
   <li>Specials and Featured products per store</li>
-  <li>Configuration settings per store, each store has a unique config table</li>
+  <li>Configuration settings per store, each store has a unique configuration table</li>
   <li>Payment and shipping modules per store</li>
   <li>customers per store</li>
   <li>Order and Pack-slip printing per store, using the stores address and logo</li>
@@ -38,7 +38,7 @@ every option can be set per store.</p>
 <ul>
   <li>On creating a new store, optional automatic template, override, and language folder copying from an other store.</li>
   <li>Add switch for optional sharing of customers between stores, and give customers the ability to buy from multiple stores at once.</li>
-  <li>Add limitations on admins wich stores they may see/edit</li>
+  <li>Add limitations to administrators, on which stores they may see/edit</li>
 </ul>
 <h2>Demo</h2>
 <p>Follow <a href="http://multistore.zen4all-dev.nl" target="_blank">this link</a> to go to the demo site</p>
