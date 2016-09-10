@@ -32,11 +32,16 @@ every option can be set per store.</p>
   <li>Payment and shipping modules per store</li>
   <li>customers per store</li>
   <li>Order and Pack-slip printing per store, using the stores address and logo</li>
+  <li>On creating a new store, optional automatic template, override, and language folder copying from an other store.</li>
+  <li>Email templates per store</li>
+  <li>Product reviews per store</li>
   <li>and some I forgot to mention...</li>
 </ul>
 <p>Future enhancements.</p>
 <ul>
-  <li>On creating a new store, optional automatic template, override, and language folder copying from an other store.</li>
+  <li>Countries per store</li>
+  <li>Product main images per per stores, as wel as additonal, large medium and small images per store</li>
+  <li>Coupons per store</li>
   <li>Add switch for optional sharing of customers between stores, and give customers the ability to buy from multiple stores at once.</li>
   <li>Add limitations to administrators, on which stores they may see/edit</li>
 </ul>
