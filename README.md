@@ -34,11 +34,11 @@ After installation, almost everything can be set through the Zen Cart admin pane
 - and some I forgot to mention...
 
 Future enhancements.
-- [ ] Countries per store
-- [ ] Product main images per per stores, as wel as additonal, large medium and small images per store
-- [ ] Coupons per store
-- [ ] Add switch for optional sharing of customers between stores, and give customers the ability to buy from multiple stores at once.
-- [x] Add limitations to administrators, on which stores they may see/edit.
+- Countries per store
+- Product main images per per stores, as wel as additonal, large medium and small images per store
+- Coupons per store
+- Add switch for optional sharing of customers between stores, and give customers the ability to buy from multiple stores at once.
+- ~~Add limitations to administrators, on which stores they may see/edit.~~
 
 ## Demo
 Follow [this link](http://multistore.zen4all-dev.nl) to go to the demo site
