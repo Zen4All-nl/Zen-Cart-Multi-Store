@@ -3,6 +3,9 @@ Multi Store module is released as a commercial module for Zen Cart.
 
 For more details, or an installation quote please contact me by sending an email to info@zen4all.nl
 ## Module Description
+Do you have more than one Zen Cart shopping cart? Are you tired of logging into multiple administrations to retrieve orders and update your store?
+
+Using this module will allow you to create multiple Zen Cart Stores with all stores sharing the same database! You create stores in the admin side and assign the various aspects of Zen Cart to the specific stores you want. It accomplishes this task by creating a configuration table for each created store. This modification allows for all the different stores to have their own unique configurations (shipping modules, payment modules, minimum/maximum values, etc.). Therefore, each store is independent of the other with regards to the store product catalog, categories, specials, manufacturers, and other config
 With this module you will be able to have multiple stores, using only *one* Zen Cart database and file set.
 
 This module has no relation to the community Multi site module found [here](https://www.zen-cart.com/downloads.php?do=file&id=378), and are not compatible.
@@ -36,9 +39,7 @@ After installation, almost everything can be set through the Zen Cart admin pane
 - Group pricing per store
 - and some I forgot to mention...
 
-Future enhancements.
-- ~~Countries per store~~
-- ~~Product main images per per stores, as wel as additonal, large medium and small images per store~~
+Future enhancements:
 - Coupons per store
 - Add switch for optional sharing of customers between stores, and give customers the ability to buy from multiple stores at once.
 - Taxes per store
